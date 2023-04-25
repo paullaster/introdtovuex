@@ -5,7 +5,6 @@
   </div>
 </template>
 <script>
-import {createStore} from 'vuex'
 export default {
   data: function(){
     return {
